@@ -2,9 +2,11 @@
 
 [![Actions Status](https://github.com/eunchurn/data-to-image/workflows/Python%20application/badge.svg)](https://github.com/eunchurn/data-to-image/actions) [![Build Status](https://travis-ci.org/eunchurn/data-to-image.svg?branch=master)](https://travis-ci.org/eunchurn/data-to-image)
 
+수집된 4채녈 가속도 데이터 Time domain, Frequency domain (Power spectral density)를 이미지 파일로 출력
+
 ## Requirements
 
-- Python 3.7
+- [Python 3.7](https://www.python.org/downloads/release/python-374/)
 
 ## Installation
 
