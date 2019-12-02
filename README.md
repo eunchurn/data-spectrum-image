@@ -45,5 +45,7 @@ python main.py
 
 ## Result
 
+Result will be in `output_path` as `png` files.
+
 ![result1](doc/1574177392234.png)
 ![result2](doc/1574221804469.png)
