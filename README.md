@@ -1,6 +1,6 @@
 # APROS MCDL Data file (JSON) to Image (PNG)
 
-[![Actions Status](https://github.com/eunchurn/data-to-image/workflows/Python/badge.svg)](https://github.com/eunchurn/data-to-image/actions)
+[![Actions Status](https://github.com/eunchurn/data-to-image/workflows/Python%20application/badge.svg)](https://github.com/eunchurn/data-to-image/actions)
 
 ## Requirements
 
