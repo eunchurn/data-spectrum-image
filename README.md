@@ -17,7 +17,9 @@ pip install
 
 ## Configuration
 
-- `main.py`에서 JSON 데이터 경로 수정
+### 데이터 폴더 지정
+
+- `main.py`을 열고 JSON 데이터 경로 수정
 - Windows의 경우 `C:\\Users\\eunchurn\\APROS\\36-20191120` 방식으로 수정
 
 ```python
@@ -25,7 +27,9 @@ pip install
 json_path = '/Users/eunchurn/APROS/36-20191120'
 ```
 
-- `main.py`에서 출력 폴더 지정
+### 출력 폴더 지정
+
+- `main.py`열고 출력 폴더 지정
 - Windows의 경우 `C:\\Users\\eunchurn\\APROS\\36-2019112\png` 방식으로 수정
 
 ```python
