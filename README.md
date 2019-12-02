@@ -42,3 +42,8 @@ output_path = '/Users/eunchurn/APROS/36-20191120/png'
 ```python
 python main.py
 ```
+
+## Result
+
+![result1](doc/1574177392234.png)
+![result2](doc/1574221804469.png)
