@@ -25,10 +25,10 @@ def sub_plot_psd(row, col, Pxx, F, Fs, ylabel):
 
 
 # JSON 데이터 폴더 지정
-json_path = '/Users/eunchurn/APROS/36-20191120'
+json_path = './test'
 
 # PNG 출력 저장할 폴더 지정
-output_path = '/Users/eunchurn/APROS/36-20191120/png'
+output_path = './result'
 
 # 출력 폴더가 없으면 생성
 if not os.path.exists(output_path):
