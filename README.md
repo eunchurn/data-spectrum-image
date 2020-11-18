@@ -1,8 +1,8 @@
-# APROS MCDL Data file (JSON) to Image (PNG)
+# Raw Data file (JSON) to Image (PNG)
 
-[![Actions Status](https://github.com/eunchurn/data-to-image/workflows/Python%20application/badge.svg)](https://github.com/eunchurn/data-to-image/actions) [![Build Status](https://travis-ci.org/eunchurn/data-to-image.svg?branch=master)](https://travis-ci.org/eunchurn/data-to-image)
+[![Actions Status](https://github.com/eunchurn/data-spectrum-image/workflows/Python%20application/badge.svg)](https://github.com/eunchurn/data-spectrum-image/actions) [![Build Status](https://travis-ci.org/eunchurn/data-spectrum-image.svg?branch=master)](https://travis-ci.org/eunchurn/data-spectrum-image)
 
-수집된 4채녈 가속도 데이터 Time domain, Frequency domain (Power spectral density)를 이미지 파일로 출력
+Raw 4 channel acceleration data plot to Time domain, Frequency domain (Power spectral density)
 
 ## Requirements
 
